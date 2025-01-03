@@ -6,7 +6,7 @@
 
 3. shotren a url by running the following command:
 ```bash
-$ curl -X POST -H "Content-Type: application/json" -d '{"url": "https://www.google.com"}' http://localhost:8080/shorten
+$ curl -X POST -H "Content-Type: application/json" -d '{"url": "https://www.kreaker.dev"}' http://localhost:8080/shorten
 ```
 
 4. Get the original url and follow it by running the following command:
